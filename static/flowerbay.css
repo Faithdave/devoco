@@ -1,0 +1,75 @@
+.but{
+
+    width: 160px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.but1{
+
+    width: 160px;
+    background-color: #562900 !important;
+    margin-left: 100px
+    
+}
+.ab{
+    text-decoration: none !important ;
+    color: black;
+}
+.ab1{
+    text-decoration: none !important ;
+    color: #ffffff;
+}
+
+a:hover{
+    text-decoration: underline !important;
+    color: #ffffff !important;
+}
+
+.navimg{
+    width: 150px;
+    height: 65px;
+}
+
+
+footer{
+    background-color: #562900;
+    color: #ffffff
+}
+
+footer h3{
+    padding-top: 35px;
+}
+
+footer a{
+    color: #ffffff;
+    text-decoration: none;
+  
+}
+.link{
+    margin-left: 20px;
+    
+}
+
+
+.search p{
+    padding-top: 35px;
+}
+
+input{
+    width: 300px;
+    height: 50px;
+}
+
+
+.search button{
+    margin-left: -150px;
+    position: absolute;
+    margin-top: 12px;
+    background-color: #562900;
+    color: #ffffff;
+    border: none;
+    height: 32px;
+    width: 72px;
+    border-radius: 3px;
+    margin-bottom: 500px;
+}
